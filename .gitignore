@@ -1,0 +1,7 @@
+build/
+*.dll
+*.pdb
+*.lib
+docs/superpowers/plans/
+PROGRESS.md
+DECISIONS.md
