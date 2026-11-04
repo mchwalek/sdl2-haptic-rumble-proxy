@@ -131,3 +131,7 @@ If you use one:
 
 SDL binaries are not part of this repository. Download them from the official
 releases; SDL is distributed under the zlib license.
+
+## License
+
+This project is released under the zlib license, the same as SDL. See [LICENSE](LICENSE).
